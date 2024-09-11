@@ -1,0 +1,11 @@
+.rt-AlertDialogScrollPadding {
+  padding-left: 0 !important;
+  padding-top: 0 !important;
+  padding-right: 0 !important;
+  padding-bottom: 0 !important;
+}
+.rt-TextAreaInput::placeholder,
+.rt-TextFieldRoot input::placeholder{
+  color: rgb(0 0 0 / 0.5) !important;
+}
+
